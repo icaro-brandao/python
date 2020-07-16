@@ -2,7 +2,7 @@
 # import math
 from math import pi
 
-print(dir())
+# print(dir())
 
 raio = 15.3
-print('Area de círculo', pi * raio**2)
+print('Área do círculo', pi * raio**2)
